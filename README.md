@@ -22,11 +22,19 @@ Analysis Task
 To perform these tasks, you can use any of the different Python libraries such as NumPy, SciPy, Pandas, scikit-learn, matplotlib, and BeautifulSoup.
 
 # `Process Overview:`
+
 	Imported data into Python environment.
+
 	Provided the trend chart for the number of complaints at monthly and daily granularity levels.
+
 	Provided a table with the frequency of complaint types.
+
 •	Identified which complaint types are maximum i.e., around internet, network issues, or across any other domains.
-	Created     a     new     categorical     variable      with      value    as Open and Closed. Open & Pending is to be categorized as Open and Closed & Solved is to be categorized as Closed.
+
+	Created a new categorical variable with value as Open and Closed.Open & Pending is to be categorized as Open and Closed & Solved is to be categorized as Closed.
+
 	Provided state wise status of complaints in a stacked bar chart. Use the categorized variable from Q3. Provide insights on:
+
 •	Spotted the states that have the maximum complaints and have the highest percentage of unresolved complaints.
+
 	Provided the percentage of complaints resolved till date, which were received through the Internet and customer care calls and the analysis was shown with insights wherever applicable.
